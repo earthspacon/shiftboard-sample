@@ -1,0 +1,3 @@
+# Planted on purpose (README, "Nine problems"): fake Supabase keys for the made-up project sample000000000000000.
+e33d620c5466962d8b8a6074c0c785e902fb14b4:.env:jwt:2
+e33d620c5466962d8b8a6074c0c785e902fb14b4:src/lib/admin.ts:jwt:3
